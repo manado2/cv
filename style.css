@@ -1,0 +1,52 @@
+.title-text {
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Sacramento', cursive;
+    color: #DDE6ED;
+    font-size: 4rem;
+    padding-top: 2rem;
+}
+
+.hard-text {
+    font-size: 1.5rem;
+
+}
+
+.container-top {
+    background-color: #27374D;
+}
+
+.teacher-text {
+    font-size: 2rem;
+    color: #9DB2BF;
+    padding-bottom: 3rem;
+}
+
+.title-photo {
+    height: 29.3rem;
+    padding-bottom: 0;
+}
+
+.container-middle {
+    background-color: #DDE6ED;
+}
+
+.container-bottom {
+    background-color: #9DB2BF;
+}
+
+.photo {
+    height: 200px;
+    border-radius: 20%;
+}
+
+.hello-text {
+    color: #27374D;
+    font-size: 3rem;
+}
+
+
+.h2-text {
+    color: #526D82;
+    font-size: 3rem;
+}
